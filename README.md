@@ -12,8 +12,8 @@ This repository contains a real-time face recognition demo using Python, OpenCV,
 
 1. **Clone the repository**:
     ```
-    git clone <your-repository-url>
-    cd <repository-directory>
+    git clone https://github.com/johntmvu/face-tracker.git
+    cd face-tracker
     ```
 
 2. **Install dependencies**:
@@ -33,3 +33,11 @@ Run the following command to start the demo:
 ```
 python face_recognition_demo.py
 ```
+
+## Key Bindings
+
+    - Press 'q' to exit the program.
+
+## Credits
+
+    This script is based on a demo from the face_recognition library by Adam Geitgey. It has been adapted and optimized for real-time use.
