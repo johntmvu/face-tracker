@@ -1,5 +1,3 @@
-Here's a README file you could use for your repository, covering installation, usage, credits, and more:
-
 ```markdown
 # Real-Time Face Recognition Demo
 
