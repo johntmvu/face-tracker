@@ -40,4 +40,11 @@ python face_recognition_demo.py
 
 ## Credits
 
-    This script is based on a demo from the face_recognition library by Adam Geitgey. It has been adapted and optimized for real-time use.
+This script is based on a demo from the [`face_recognition`](https://github.com/ageitgey/face_recognition) library by Adam Geitgey. It has been adapted and optimized for real-time use.
+
+## Requirements
+
+- Python 3.7+
+- OpenCV (`opencv-python`)
+- `face_recognition` library (requires `dlib`)
+
