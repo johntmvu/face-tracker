@@ -1,3 +1,12 @@
+"""
+Original code example from the face_recognition library by Adam Geitgey.
+This code demonstrates live face recognition from a webcam using the face_recognition and OpenCV libraries.
+The example includes optimizations for faster processing by resizing frames and processing every other frame.
+
+For more information, visit the face_recognition GitHub repository: 
+https://github.com/ageitgey/face_recognition
+"""
+
 import face_recognition
 import cv2
 import numpy as np
